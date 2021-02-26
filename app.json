@@ -1,4 +1,5 @@
 {
+  "stack": "heroku-18"
   "name": "venting-spleens-bot",
   "description": "This app connects to your slack team and greets new joiners with a custom msg",
   "keywords": [
