@@ -1,12 +1,14 @@
 {
   "name": "venting-spleens-bot",
   "description": "This app connects to your slack team and greets new joiners with a custom msg",
-  "stack": "heroku-18",
   "keywords": [
     "productivity",
     "Slack",
     "bot"
   ],
+  {
+  "stack": "heroku-20"
+}
   "website": "https://github.com/venting-spleens/venting-spleens-bot",
   "repository": "https://github.com/venting-spleens/venting-spleens-bot",
   "env": {
