@@ -6,7 +6,6 @@
     "Slack",
     "bot"
   ],
-  "stack": "heroku-18",
   "website": "https://github.com/venting-spleens/venting-spleens-bot",
   "repository": "https://github.com/venting-spleens/venting-spleens-bot",
   "env": {
